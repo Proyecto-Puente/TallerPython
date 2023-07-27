@@ -10,5 +10,7 @@ En el repositorio encontrará los ejercicios propuestos para el taller **"introd
   * Diccionarios
 * **Modulo 5**: Modulos y paquetes
 * **Modulo 6**: Archivos
-  * Manejo de archivos CSV y XLSX
+  * Manejo de archivos
+  * Operaciones con archivos
+  * CSV y XLSX
 * **Modulo 7**: Orientación a objetos
