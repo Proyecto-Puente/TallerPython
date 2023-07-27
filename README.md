@@ -1,5 +1,5 @@
-# ProyectoPuente-TallerPython
-En el repositorio encontrará los ejercicios propuestos para el taller **"introducción a python"**
+# Taller Python - Proyecto Puente
+En el repositorio encontrará los ejercicios propuestos para el taller **"introducción a python"**.
 
 ## Contenido
 * **Modulo 1**: Introduccion
